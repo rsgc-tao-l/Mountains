@@ -2,5 +2,15 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=0&amp;CharacterRangeLoc=5694&amp;EndingColumnNumber=15&amp;EndingLineNumber=110&amp;StartingColumnNumber=9&amp;StartingLineNumber=106&amp;Timestamp=508344188.431968"
+         selectedRepresentationIndex = "1"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=6&amp;CharacterRangeLoc=5834&amp;EndingColumnNumber=7&amp;EndingLineNumber=117&amp;StartingColumnNumber=1&amp;StartingLineNumber=117&amp;Timestamp=508344188.432219"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
